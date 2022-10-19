@@ -1,0 +1,90 @@
+[
+    {
+        "ip": "10.16.206.100",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "FDO211622DB",
+        "smodes": "NX-API",
+        "platform": "C93180LC-EX",
+        "emodes": "NX-API",
+        "os": "7.0(3)I7(4)",
+        "host": "N9K-EX-100.cisco.com"
+    },
+    {
+        "ip": "10.16.206.103",
+        "name": "ndbuser",
+        "pass": "C1sNdb$lab",
+        "sno": "FDO21240X8U",
+        "smodes": "NX-API",
+        "platform": "93180YC-EX",
+        "emodes": "NX-API",
+        "os": "9.3.(3)",
+        "host": "N9K-EX-103"
+    },
+    {
+        "ip": "10.16.206.104",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "FDO21240ZMF",
+        "smodes": "NX-API",
+        "platform": "93180YC-EX",
+        "emodes": "NX-API",
+        "os": "9.3.(3)",
+        "host": "N9K-93180YC-EX-104"
+    },
+    {
+        "ip": "10.16.206.108",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "FDO21220v47",
+        "smodes": "NX-API",
+        "platform": "C93108TC-EX",
+        "emodes": "NX-API",
+        "os": "7.0(3)I7(4)",
+        "host": "N9K-C93108TC-EX-108"
+    },
+    {
+        "ip": "10.16.206.19",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "CAT2242L6DV",
+        "smodes": "NX-API",
+        "platform": "Cat9500-32QC",
+        "emodes": "NX-API",
+        "os": "",
+        "host": "Cat9500-32QC"
+    },
+    {
+        "ip": "10.16.206.77",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "EXAFSN-B-01201",
+        "smodes": "NX-API",
+        "platform": "EBFSN-03",
+        "emodes": "NX-API",
+        "os": "1.13.0",
+        "host": "EXAFSN-B-01201"
+    },
+    {
+        "ip": "10.16.206.88",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "FDO23520JVV",
+        "smodes": "NX-API",
+        "platform": "C9332C",
+        "emodes": "NX-API",
+        "os": "9.2.(1)",
+        "host": "N9K9332C-88"
+    },
+    {
+        "ip": "10.16.206.90",
+        "name": "admin",
+        "pass": "C1sNdb$lab",
+        "sno": "FDO233401PD",
+        "smodes": "NX-API",
+        "platform": "93600CD-GX",
+        "emodes": "NX-API",
+        "os": "9.3.(4)",
+        "host": "N9K-C93600CD-GX"
+    }
+]

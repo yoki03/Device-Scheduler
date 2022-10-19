@@ -1,0 +1,50 @@
+.loginpage{
+    background-image: linear-gradient(45deg, #ADDDD0, white);
+}
+.home-img{
+    width: 50%;
+}
+.home-img img{
+    width: 800px;
+    padding: 100px;
+    border-radius: 7rem;
+}
+.form{
+    height: 400px;
+    width: 500px;
+    float: right;
+}
+.form h1{
+    font-family: sans-serif;
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    width: 100%;
+    display: block;
+}
+.form p{
+    text-align: left;
+    margin-left: 12px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: smaller;
+    color: #7895B2;
+}
+.form input{
+    width: 80%;
+    margin-left: 12px;
+}
+.form label{
+    margin-left: 10px;
+}
+.form Button{
+    margin-left: 12px !important ;
+    margin-top: 10px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.fields{
+    margin-top: 50px;
+}
+
+

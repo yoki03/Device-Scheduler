@@ -1,0 +1,26 @@
+[
+    {
+        "user": "admin",
+        "sdate": "2022-10-06",
+        "stime": "08:00", 
+        "edate": "2022-11-04", 
+        "etime": "19:42", 
+        "reason": "testing"
+    },
+    {
+        "user": "user",
+        "sdate": "2022-10-06",
+        "stime": "08:00", 
+        "edate": "2022-11-04", 
+        "etime": "19:42", 
+        "reason": "testing"
+    },
+    {
+        "user": "admin",
+        "sdate": "2022-10-06",
+        "stime": "08:00", 
+        "edate": "2022-11-04", 
+        "etime": "19:42", 
+        "reason": "testing"
+    }  
+]
